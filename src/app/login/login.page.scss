@@ -1,0 +1,50 @@
+.tulisan{
+    padding: 30px 145px;
+}
+button{
+    background-color: black;
+	color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: sans-serif;
+	border: none;
+	border-radius: 25px;
+    padding: 10px 55px;
+    cursor: pointer;
+    margin: auto 95px;
+    margin-top: 30px;
+}
+.kotak_login{
+    height: 350px;
+    width: 380px;
+    border-radius: 25px;
+    margin: auto;
+}
+.form_login{
+    padding: 10px 10px;
+    padding-left: 10px;
+    margin: 10px 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+
+}
+td,th .icon{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.baris{
+    padding: 30px 50px;
+    border: 10px;
+}
+.table{
+    border: 5px;
+    padding: 5px 10px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    margin-top: 6px;
+}
+p{
+    text-align: center;
+}
