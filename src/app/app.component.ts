@@ -25,6 +25,16 @@ export class AppComponent {
       title: 'List',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title: 'Keranjang',
+      url: '/keranjang',
+      icon: 'cart'
+    },
+    {
+      title: 'Tambah Produk',
+      url: '/tambah-prod',
+      icon: 'add'
     }
   ];
 

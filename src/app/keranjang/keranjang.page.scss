@@ -1,0 +1,40 @@
+.img {
+    height: 100px;
+    width: 70px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    margin-right: 15px;
+}
+.artikel{
+    overflow: hidden;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 10px;
+
+}
+.artikel h3{
+    font-size: 17px;
+    margin: 0 0 20px 0;
+    
+}
+button{
+    background-color: black;
+	color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: sans-serif;
+	border: none;
+	border-radius: 25px;
+    padding: 10px 55px;
+    cursor: pointer;
+    margin: 55px;
+    margin-top: 30px;
+}
+.jumlah {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+
+}
